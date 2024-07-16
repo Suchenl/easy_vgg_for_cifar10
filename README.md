@@ -1,5 +1,5 @@
 ### easy_vgg_for_cifar10
-# My test accuracy = 0.8952, which meets the 0.75 requirement.
+# During training at epoch 238, achieved a test accuracy of 0.8952, meeting the required threshold of 0.75. Further training may lead to higher accuracy.
 
 # convnet_pytorch.py
 This script defines the model architecture for CIFAR-10 dataset.
